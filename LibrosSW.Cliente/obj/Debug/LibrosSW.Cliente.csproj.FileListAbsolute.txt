@@ -1,0 +1,10 @@
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\bin\Debug\LibrosSW.Cliente.exe.config
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\bin\Debug\LibrosSW.Cliente.exe
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\bin\Debug\LibrosSW.Cliente.pdb
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.csprojAssemblyReference.cache
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.Form1.resources
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.Properties.Resources.resources
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.csproj.GenerateResource.cache
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.exe
+C:\Users\1082537275\source\repos\PeliculasSW_BD\LibrosSW.Cliente\obj\Debug\LibrosSW.Cliente.pdb
